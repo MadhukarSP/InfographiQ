@@ -7,6 +7,10 @@ use infographics to get a clear understanding of business ideas and to communica
 
 The idea behind the project was to create a web application that takes high dimensional data as input and provides various interactive diagrams as output.
 
+## Frameworks
+
+Bootstrap and D3
+
 ## How to Install
 
 ### Requirements
